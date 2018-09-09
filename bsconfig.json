@@ -1,0 +1,19 @@
+{
+	"name": "reason-next",
+	"version": "0.1.0",
+	"sources": {
+		"dir": "pages",
+		"subdirs": true
+	},
+	"package-specs": {
+		"module": "commonjs",
+		"in-source": true
+	},
+	"suffix": ".bs.js",
+	"bs-dependencies": ["reason-react"],
+	"warnings": {
+		"error": "+101"
+	},
+	"reason": { "react-jsx": 2 },
+	"refmt": 3
+}
