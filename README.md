@@ -1,16 +1,14 @@
 
 
-# Build
+# 1 Compile Reason -> JS
 ```
-npm run build
-```
-
-# Watch
-
-```
-npm run watch
+npm run make
 ```
 
+# 2 Run Next Server
 
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
+```
+npm run dev
+```
+
+# 3 Profit?!?!?
